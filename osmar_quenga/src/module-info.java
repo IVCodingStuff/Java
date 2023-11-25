@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module osmar_quenga {
-}
