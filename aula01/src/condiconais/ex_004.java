@@ -13,7 +13,7 @@ public class ex_004 {
 			if (c % 2 == 0){
 				System.out.println(c);
 			}
-			if (c % 2 != 0){
+			else if(c % 2 != 0){
 				System.out.print(c + " // ");
 			}	
 		}
